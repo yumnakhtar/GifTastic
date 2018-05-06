@@ -1,7 +1,9 @@
 body {
+    background-color: black;
     background-image: url("assets/images/bat.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
 }
