@@ -6,6 +6,10 @@ This project deals with API's. There are previously generated buttons, and there
 
 Open the Giftastic file is open on your screen, then double click on the HTML file and enjoy the gifs when they open on you default browser
 
+## Compatible Browsers
+* Safari
+* Internet Explorer
+* Firefox
 
 
 
