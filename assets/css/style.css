@@ -1,0 +1,37 @@
+.jumbotron {
+    background: transparent;
+    padding-top: 0px;
+}
+
+body {
+    background-color: #201b1b;
+    background-image: url("../images/bat.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: yellow;
+    font-family: 'Bitter', serif;
+}
+
+.container{
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    margin-top: 20px;
+}
+
+#villain-input {
+    margin-right: 10px;
+}
+
+.display-4 {
+    font-family: 'Anton', sans-serif;
+}
+
+hr {
+width: 900px;
+background-color: yellow;
+}
